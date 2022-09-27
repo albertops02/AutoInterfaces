@@ -37,3 +37,4 @@ if(my_gateways.__contains__(gateway)):
 else:
     print("Localizacion no reconocida.")
     print("Establezco ip por dhcp")
+    print("Soy Alberto")
